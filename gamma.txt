@@ -1,2 +1,3 @@
 name=Ashish,
-registration=103
+registration=103,
+salary=25000;
